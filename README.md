@@ -9,3 +9,4 @@
 - 🤔 I’m looking for help with UNIX code learning, R code learning, statistical methods learning, scientific research paper graph/figure making...
 - I'm willing to learn all about informatics and bioinformatics!
 The future is now.
+Feel free to message or email me at ignaciofraga.p@gmail.com if any of my coding seems to be of help to you so we can discuss it.
